@@ -1,7 +1,7 @@
 # beinner-html-site-scripted-de
 Einfache Webseite zur Veranschaulichung von HTML, CSS und JavaScript. Das Tutorial, zu welchem dieses Repo gehört, findet sich hier: [https://developer.mozilla.org/de/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/de/Learn/Getting_started_with_the_web/JavaScript_basics). 
 
-[Webseite live aufrufen](https://mdn.github.io/beginner-html-site-scripted/).
+[Webseite live aufrufen](https://shidigital.github.io/beginner-html-site-scripted-de/).
 
 <hr>
 
